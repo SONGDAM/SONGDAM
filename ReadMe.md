@@ -1,6 +1,6 @@
 <h1 align="center">
   
- #📌Tech Stack
+ 📌Tech Stack
 </h1>
 
 </br>
@@ -15,7 +15,7 @@
 <br/>
 
 <h2 align="center">
-# 📊GitHub Stats :
+📊GitHub Stats 
 </h2>
 
 <div align="center">
