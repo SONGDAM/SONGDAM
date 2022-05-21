@@ -1,4 +1,4 @@
-<center>
+<div style="text-align:center">
 
 # 💻Tech Stack
 
@@ -24,4 +24,4 @@
 
 ---
 
-</center>
+</div>
