@@ -25,10 +25,6 @@ https://honeysuckle-seed-92c.notion.site/c88b37f3c4584def811c3a6b066f0fc3
   
 # 📊 GitHub Stats
 
-  </br>
-  
-![](https://github-readme-stats.vercel.app/api?username=SONGDAM&theme=react&hide_border=false&include_all_commits=false&count_private=false)
-
 <br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SONGDAM&theme=react&hide_border=false)
