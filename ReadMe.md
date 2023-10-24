@@ -1,10 +1,8 @@
 <div align="center">
 
-# Introduce me!
-  
-## 👇👇
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
-https://honeysuckle-seed-92c.notion.site/c88b37f3c4584def811c3a6b066f0fc3
   
  <br>
   
