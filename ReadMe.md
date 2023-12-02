@@ -1,13 +1,13 @@
 <div align="center">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 47.5 kB Used in GitHub's Storage 
+> 📦 47.6 kB Used in GitHub's Storage 
  > 
 > 🏆 281 Contributions in the Year 2023
  > 
@@ -44,15 +44,15 @@ Sunday                   101 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               26 hrs 17 mins      ███████████████████████░░   91.25 % 
-JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Ruby                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               27 hrs 43 mins      ███████████████████████░░   90.78 % 
+JSON                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Other                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Ruby                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 4 mins       ████████████████████████░   97.43 % 
-Neovim                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+VS Code                  29 hrs 47 mins      ████████████████████████░   97.57 % 
+Neovim                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +69,7 @@ JavaScript               5 repos             ███████░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SONGDAM/SONGDAM/master/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 18:35:39 UTC
+ Last Updated on 02/12/2023 18:35:00 UTC
 <!--END_SECTION:waka-->
 
   
