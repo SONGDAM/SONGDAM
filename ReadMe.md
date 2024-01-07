@@ -1,15 +1,13 @@
 <div align="center">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 47.9 kB Used in GitHub's Storage 
- > 
-> 🏆 18 Contributions in the Year 2024
+> 📦 48.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,14 +42,14 @@ Sunday                   115 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               32 hrs 4 mins       █████████████████████░░░░   82.79 % 
-Go                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Other                    49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+TypeScript               29 hrs 54 mins      ████████████████████░░░░░   80.69 % 
+Go                       2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  38 hrs 45 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -69,7 +67,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SONGDAM/SONGDAM/master/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2024 18:35:06 UTC
+ Last Updated on 07/01/2024 18:35:06 UTC
 <!--END_SECTION:waka-->
 
   
