@@ -1,7 +1,7 @@
 <div align="center">
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-751%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-753%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,7 +68,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SONGDAM/SONGDAM/master/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2024 18:35:07 UTC
+ Last Updated on 30/03/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
 
   
